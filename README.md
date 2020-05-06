@@ -5,7 +5,9 @@ RESNET: https://colab.research.google.com/drive/12T64s834sdRdIdmBJd3mAF_7AUSmXG7
 EFFICIENTNET + data augmentation:  
 https://colab.research.google.com/drive/1IHcKp9pNyTQ_rsVImdeSJdQQEYJ2aNG4
 Aerial and groud level photos download and coord conversion:  
-https://colab.research.google.com/drive/1Q4c_Wt6P41xqcPxnnOhEm480ZurF-ZiC
+https://colab.research.google.com/drive/1Q4c_Wt6P41xqcPxnnOhEm480ZurF-ZiC  
+RESNET + aerial images features extraction:  
+https://colab.research.google.com/drive/1XwcXmXLIJDAajZIMD9Vm-Xggku8PkVaz
 
 Drive folder with python libs:  
 https://drive.google.com/drive/folders/1rholOwFIX6vPHdyeRyqgjg3Qo6ipdORI?usp=sharing  
